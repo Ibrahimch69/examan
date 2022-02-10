@@ -13,4 +13,4 @@ let ibra = new Personage('chergui','ibrahim',20)
 let bilal = new Personage('chergui','bilal',20)
 console.log(ibra);
 ibra.sebattre(5);
-console.log(ibra);
+console.log(ibra)/*feihoeziHFHEZofhoe*/
